@@ -1,0 +1,2 @@
+timestamp,datetime,pack_voltage_V,pack_current_A,pack_soc_pct,min_cell_voltage_V,max_cell_voltage_V,avg_cell_voltage_V,delta_voltage_V,min_cell_temp_C,max_cell_temp_C,avg_cell_temp_C,iso_resistance_pos_Mohm,iso_resistance_neg_Mohm,airs_closed,imd_triggered,active_fault_count,min_soh_pct,avg_soh_pct,balancing_active
+1773108364.043833,2026-03-09T22:06:04.043,367.56,8.58,80.0,3.8174,3.8442,3.8287,0.0268,-999.00,-999.00,-999.00,10.0000,10.0000,True,False,0,74.3,90.1,False
